@@ -1,0 +1,28 @@
+img {
+  width: 30%;
+  float: left;
+  margin: 1.66%;
+
+}
+
+p {
+  font-family: Raleway;
+  color: white;
+  margin-left: 1.66%;
+  font-size: 23px;
+  font-weight: 800;
+  text-transform: uppercase;
+  border-bottom: 2px solid white;
+  width: 11%;
+  padding-bottom: 20px;
+}
+
+
+p:hover {
+  color: #F9FB9F;
+  border-color: #F9FB9F;
+}
+
+body {
+  background-color: black;
+}
